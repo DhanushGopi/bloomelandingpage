@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/bloomelandingpage/static/css/main.a152b477.css",
+    "main.js": "/bloomelandingpage/static/js/main.41ff7a57.js",
+    "static/js/453.1b53e9f4.chunk.js": "/bloomelandingpage/static/js/453.1b53e9f4.chunk.js",
+    "static/media/webbanner.jpg": "/bloomelandingpage/static/media/webbanner.6afbbf8b6ff157c020f5.jpg",
+    "static/media/bloomebundle.png": "/bloomelandingpage/static/media/bloomebundle.39be0520833d50351139.png",
+    "static/media/15years.png": "/bloomelandingpage/static/media/15years.26ab86771398e466d844.png",
+    "static/media/p2.png": "/bloomelandingpage/static/media/p2.b3e68d2c991ed0462f15.png",
+    "static/media/p8.png": "/bloomelandingpage/static/media/p8.5a0e8447e2735d8373a2.png",
+    "static/media/p4.png": "/bloomelandingpage/static/media/p4.1ab8c47699c9caace86b.png",
+    "static/media/p6.png": "/bloomelandingpage/static/media/p6.7761c378f134b2aecb66.png",
+    "static/media/p7.png": "/bloomelandingpage/static/media/p7.06d25fa767e50b98c431.png",
+    "static/media/p3.png": "/bloomelandingpage/static/media/p3.4a9a5280329bbd03e239.png",
+    "static/media/p5.png": "/bloomelandingpage/static/media/p5.4c04ea867ff343874eb9.png",
+    "static/media/bloomelogo.svg": "/bloomelandingpage/static/media/bloomelogo.db4be29751f7aee86c8967d4255eee28.svg",
+    "static/media/bloomewhitelogo.svg": "/bloomelandingpage/static/media/bloomewhitelogo.09b188e22173db9c82436f9991bf3237.svg",
+    "static/media/p1.png": "/bloomelandingpage/static/media/p1.c1775fb874603f54da0f.png",
+    "static/media/img4.png": "/bloomelandingpage/static/media/img4.0996275ecdded2e09a3c.png",
+    "static/media/offer.svg": "/bloomelandingpage/static/media/offer.2b30943ffd81838b80f1b9b4ba971ec6.svg",
+    "static/media/hot.svg": "/bloomelandingpage/static/media/hot.44baadbec0f4b419255cf19a87fb0eb8.svg",
+    "static/media/best.svg": "/bloomelandingpage/static/media/best.e5e59d2a62c9d3674b701bd6d6ade171.svg",
+    "static/media/rating.svg": "/bloomelandingpage/static/media/rating.bc47111bdab8f6f4f8049e83f2c5b6c7.svg",
+    "index.html": "/bloomelandingpage/index.html",
+    "main.a152b477.css.map": "/bloomelandingpage/static/css/main.a152b477.css.map",
+    "main.41ff7a57.js.map": "/bloomelandingpage/static/js/main.41ff7a57.js.map",
+    "453.1b53e9f4.chunk.js.map": "/bloomelandingpage/static/js/453.1b53e9f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a152b477.css",
+    "static/js/main.41ff7a57.js"
+  ]
+}
