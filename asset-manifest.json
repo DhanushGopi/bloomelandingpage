@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bloomelandingpage/static/css/main.a152b477.css",
-    "main.js": "/bloomelandingpage/static/js/main.41ff7a57.js",
+    "main.js": "/bloomelandingpage/static/js/main.e5e490a2.js",
     "static/js/453.1b53e9f4.chunk.js": "/bloomelandingpage/static/js/453.1b53e9f4.chunk.js",
     "static/media/webbanner.jpg": "/bloomelandingpage/static/media/webbanner.6afbbf8b6ff157c020f5.jpg",
     "static/media/bloomebundle.png": "/bloomelandingpage/static/media/bloomebundle.39be0520833d50351139.png",
@@ -23,11 +23,11 @@
     "static/media/rating.svg": "/bloomelandingpage/static/media/rating.bc47111bdab8f6f4f8049e83f2c5b6c7.svg",
     "index.html": "/bloomelandingpage/index.html",
     "main.a152b477.css.map": "/bloomelandingpage/static/css/main.a152b477.css.map",
-    "main.41ff7a57.js.map": "/bloomelandingpage/static/js/main.41ff7a57.js.map",
+    "main.e5e490a2.js.map": "/bloomelandingpage/static/js/main.e5e490a2.js.map",
     "453.1b53e9f4.chunk.js.map": "/bloomelandingpage/static/js/453.1b53e9f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a152b477.css",
-    "static/js/main.41ff7a57.js"
+    "static/js/main.e5e490a2.js"
   ]
 }
